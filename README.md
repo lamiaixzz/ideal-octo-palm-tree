@@ -1,2 +1,2 @@
-# ideal-octo-palm-tree
-beginner c code
+# Subject result avg calculator
+beginner c code 
